@@ -1,5 +1,8 @@
 _repo: Ann-and-Her-Mother_53522
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53522-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Douglas, O.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3741'
     url: http://www.gutenberg.org/2009/agents/3741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53522#Ann-and-Her-Mother
 gutenberg_issued: '2016-11-13'
 gutenberg_type: Text
 identifiers:
