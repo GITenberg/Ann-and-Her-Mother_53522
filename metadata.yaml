@@ -1,0 +1,28 @@
+_repo: Ann-and-Her-Mother_53522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, O.
+    alias: Buchan, Anna
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '3741'
+    url: http://www.gutenberg.org/2009/agents/3741
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- GITenberg
+title: Ann and Her Mother
+url: http://www.gutenberg.org/ebooks/53522
